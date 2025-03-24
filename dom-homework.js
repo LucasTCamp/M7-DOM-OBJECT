@@ -13,13 +13,13 @@ myDiv.appendChild(paragraph);
 let list = document.createElement('ul');
 
 let li1 = document.createElement('li');
-li1.innerHTML = 'Apple';
+li1.innerHTML = 'Drake';
 
 let li2 = document.createElement('li');
-li2.innerHTML = 'Banana';
+li2.innerHTML = 'TheWeekend';
 
 let li3 = document.createElement('li');
-li3.innerHTML = 'Orange';
+li3.innerHTML = 'Carti';
 
 list.appendChild(li1);
 list.appendChild(li2);
